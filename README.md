@@ -25,3 +25,7 @@ By Default create a db in database
 npx prisma generate
 
 npx prisma db push
+
+By Default the tabels and datas are insterted by entering the above commands
+
+add more data by edit /prisma/seed.js
