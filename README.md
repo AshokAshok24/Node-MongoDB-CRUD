@@ -16,3 +16,12 @@ By Default the project is setuped by Swagger-docs
 API-Documentations
 
 http://localhost:8000/api-docs
+
+
+# Prisma Sequalize ORM
+
+By Default create a db in database
+
+npx prisma generate
+
+npx prisma db push
